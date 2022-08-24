@@ -1,0 +1,21 @@
+.pokedex {
+  border: 1px solid #000;
+  max-width: 350px;
+  padding: 5px;
+  background: rgb(168, 14, 14);
+}
+
+.pokemon-avatar {
+  border: 1px solid #000;
+}
+
+.pokemon-avatar > img {
+  width: 100%;
+  height: auto;
+}
+
+.pokemon-avatar,
+.pokemon-info,
+.pokemon-name {
+  background-color: white;
+}
